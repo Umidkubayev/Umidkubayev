@@ -1,4 +1,2 @@
-@Umidkubayev:
-<-- all web-designs designed from our comand -->
- All rigths reserved; ©Copyright; 2021
-//Thanks
+<-- //All codes are written by @umidkubayev// -->
+© Copyright 2021 All rights reserved
